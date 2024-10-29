@@ -2,9 +2,7 @@ Pod::Spec.new do |s|
   s.name         = 'ContextualMenu'
   s.version      = '1.0.0'
   s.summary      = 'Contextual menu for iOS apps.'
-  s.description  = <<-DESC
-    A simple contextual menu component for iOS apps.
-  DESC
+  s.description  = 'A simple contextual menu component for iOS apps.'
   s.homepage     = 'https://github.com/DeepCreative/ContextualMenu'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'Your Name' => 'acdifran@deepcreative.ai' }
